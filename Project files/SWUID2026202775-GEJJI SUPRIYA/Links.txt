@@ -1,0 +1,20 @@
+dashboard 01
+link
+
+
+https://public.tableau.com/views/StrategicproductplacementAnalysis-Dashboard01/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+dashboard 2
+
+link 
+
+
+https://public.tableau.com/views/StrategicproductplacementAnalysis-Dashboard02/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+story 
+
+link
+
+https://public.tableau.com/views/StrategicproductplacementAnalysis-Story/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
